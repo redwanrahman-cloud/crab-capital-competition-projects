@@ -15,8 +15,12 @@ python -B repo_rescue.py fixtures/current fixtures/snapshot --format html --outp
 ```
 
 Use a new output filename. Export refuses overwrite and writes outside both inputs. File/directory conflicts, links, observable concurrent changes and input read errors refuse the whole comparison. Use distinct, non-overlapping, quiescent inputs. Hashes do not establish snapshot trust or restoration approval. Competition-specific development evidence and entry compliance remain pending.
-This public export contains source, tests, synthetic fixtures and build manifests. Private receipts, reports, screenshots, local credentials, installed dependencies and generated local builds are omitted. Test results described here are historical development evidence; this export has not independently reproduced them. No submission or organizer acceptance is claimed.
+This public export contains source, tests, synthetic fixtures and build manifests. Private receipts, screenshots, local credentials, installed dependencies and generated local builds are omitted. The exact published source copy passed all 21 tests on the development machine; a separate-machine reproduction remains unverified. No submission or organizer acceptance is claimed.
 
 Third-party packages and vendored files retain their own licenses. No blanket license is granted over third-party material. Install dependencies only after reviewing their terms and use your own authorized platform configuration.
 
 Portability: this source export has not been verified by a clean dependency installation on another machine. Original contributions are licensed under Apache-2.0; third-party material retains its own licenses. See the repository root LICENSE and THIRD-PARTY-NOTICES.md.
+
+## Saved synthetic preview
+
+Download [demo.html](demo.html) and open it locally to inspect the report without scanning files. It is an actual fixture-generated report with only machine-specific root display labels replaced by synthetic labels. It contains no scripts or remote assets. It is not a hosted scanner or a substitute for the required demonstration video.

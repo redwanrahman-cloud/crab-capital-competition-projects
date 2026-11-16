@@ -1,0 +1,2 @@
+# Preserve source-manifest byte identities across publication and checkout.
+* -text
