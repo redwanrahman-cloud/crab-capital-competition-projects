@@ -56,7 +56,7 @@ Enter the privately supplied registered credential only in the app's cloud setup
 
 - A judge can build the browser assets, but the unmodified app cannot complete Firebase initialization using the invented sample. Provide an authorized original-project test-build route or finish and verify a separately authorized project adaptation. Neither route is delivered by placeholders.
 - Demonstrate **Gemini Nano 4** specifically on Web/Chrome; the current `LanguageModel` availability and SDK `on_device` observations do not identify that version. Record browser/platform and trustworthy version evidence; do not infer it from generic availability.
-- Approve and include a detectable open-source license at the submitted repository root. Public visibility alone is insufficient.
+- Completed: Apache-2.0 approved for original contributions and included at the repository root; third-party licenses remain separate.
 - Provide a public YouTube demonstration, at most three minutes, in English or with English subtitles, showing actual platform behavior. No finished public video URL exists in this package.
 - Complete the final submission description, selected platform, work-during-contest summary, pre-existing-code/third-party disclosures and entrant/team eligibility review. No submission acceptance is claimed.
 

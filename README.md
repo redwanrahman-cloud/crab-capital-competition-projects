@@ -33,6 +33,6 @@ Last evidence update: 16 November 2026.
 
 ## Source packages
 
-The `projects/` directory contains reviewed development source for C01, C02, C04, C05, C06, C07 and C08. C03, C09 and C10 contain status only; the full Lens assets are not included. No private config, credentials or development evidence is included. These packages are not all completed entries. Read each project's README for reproducibility and remaining platform gates. First-party open-source licensing still requires an explicit decision; public visibility alone is not an open-source license.
+The `projects/` directory contains reviewed development source for C01, C02, C04, C05, C06, C07 and C08. C03, C09 and C10 contain status only; the full Lens assets are not included. No private config, credentials or development evidence is included. These packages are not all completed entries. Read each project's README for reproducibility and remaining platform gates. Our original contributions are licensed under Apache-2.0; see the root LICENSE and THIRD-PARTY-NOTICES.md for scope.
 
 Updates are deliberate reviewed commits; this repository is not an unattended background sync.

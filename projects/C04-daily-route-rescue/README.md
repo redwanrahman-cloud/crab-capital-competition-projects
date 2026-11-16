@@ -14,4 +14,4 @@ This public export contains source, tests, synthetic fixtures and build manifest
 
 Third-party packages and vendored files retain their own licenses. No blanket license is granted over third-party material. Install dependencies only after reviewing their terms and use your own authorized platform configuration.
 
-Portability: this source export has not been verified by a clean dependency installation on another machine. First-party open-source license selection remains pending; public source visibility does not itself grant an open-source license.
+Portability: this source export has not been verified by a clean dependency installation on another machine. Original contributions are licensed under Apache-2.0; third-party material retains its own licenses. See the repository root LICENSE and THIRD-PARTY-NOTICES.md.
