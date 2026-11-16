@@ -1,6 +1,6 @@
 # Daily Route Rescue — entry packet
 
-Prepared 16 November 2026. **Materials prepared; judge access remains unverified. No competition entry has been submitted.**
+Prepared 16 November 2026. **Materials prepared; public page and app-shell visibility was observed; independent authenticated judge gameplay remains unverified. No competition entry has been submitted.**
 
 ## Project fields
 
@@ -35,7 +35,7 @@ Separate-user isolation, simultaneous Redis transaction races and independent au
 
 ## Judge play instructions
 
-1. Once access is confirmed, open the interactive post using your own Reddit account. Do not use the owner's credentials.
+1. Sign in to Reddit with your own account and open the interactive post. Do not use the owner's credentials.
 2. Tap the ambulance, then move one cell horizontally or vertically.
 3. Rescue 1 → 2 → 3, then reach H without revisiting a cell.
 4. Reload partway through to check retained progress.
@@ -45,11 +45,11 @@ The dated November 16 solution, in zero-based row-major cells, is `3,2,1,0,4,5,6
 
 ## Access and final-entry checks
 
-The requested judge-access helper was approved but Reddit denied installation of version 0.0.6. It is not installed. The owner subsequently authorized public community access and reported saving it; however, the fresh community and exact settings readback still showed **Private**. A clean signed-out browser also encountered Reddit's human-verification screen before content. Judge access must not be called ready on these observations.
+On 16 November, the coordinating operator reported Reddit Mod Discussions showed u/reddit confirming the requested change from private to public. A refreshed clean Incognito session without owner cookies showed the exact post rendering the game app shell, community information Public, Sign Up / Log In, and “Sign in to Reddit to save a route.” The grid was unpopulated until authentication, consistent with the existing identity rule. This verifies public page and app-shell visibility, not independent authenticated gameplay. Earlier private readback and human-verification interruption remain historical; the approved helper installation was denied and the helper is absent.
 
 Before final submission:
 
-- Verify the saved public type and that the post is reachable without owner-only membership, using the intended judge access route.
+- Captain accepted the single-account hosted test; independent authenticated gameplay remains unverified. Devpost sign-in, final human attestations and confirmation remain pending.
 - Keep access free and available throughout judging.
 - Entrant personally confirms eligibility, rights, team authority where applicable, relevant contest terms and final form declarations.
 - Confirm all required form links and the root play instructions, then obtain an actual submission receipt.

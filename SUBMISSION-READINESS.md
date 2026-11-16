@@ -7,7 +7,7 @@ No final competition entry has been submitted. This checklist separates working 
 | C01 Private Draft Desk | Source, Apache-2.0 scope, judge setup guide, genuine device and approved cloud rewrite evidence, 44 retained local tests | Exact supported device-model identity, external judge setup verification, actual public demo video |
 | C02 Repo Rescue | Source, genuine Kiro specifications/tests, haunted report, 21 passing native tests | Demo and judge access; organizer judgment of category fit and Kiro-use sufficiency |
 | C03 Bolt Back | Native first-party source, scene, planning and dependency manifest; original native/mouse preview evidence | Restore omitted third-party dependencies and verify clean import; actual preview video |
-| C04 Daily Route Rescue | Official CLI/private installation and real hosted completion (625 points), reload and Reset persistence | Hosted stale-revision rejection verified; separate-user/simultaneous race checks, private judge-access arrangement and final entry remain |
+| C04 Daily Route Rescue | Real single-account hosted completion, reload, Reset and stale-revision rejection; public page and game app-shell visibility observed | Independent authenticated gameplay, separate-user isolation, simultaneous races and final entry remain unverified |
 | C05 Evidence Trail | Pinned Relate setup, judge guide, five real-engine tests and actual browser workflow | Repository topic `relate`, accessible demo/video and entrant eligibility confirmation |
 | C06 QNX Build Doctor | Source and 15 retained static audit tests | Genuine QNX compatibility and host-tool eligibility; video |
 | C07 Release Evidence Gate | Source, verified Forge login and 11 local tests | **Owner-paused: no billing consent. Do not register, deploy or install.** |

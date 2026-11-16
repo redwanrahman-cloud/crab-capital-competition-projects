@@ -11,9 +11,15 @@ The official Devvit CLI authenticated the owner, uploaded version 0.0.1 and inst
 - All 16 stops completed: three rescues, 15 steps, **625 points**.
 - Reset cleared the route; another full reload retained the empty state.
 
-The original automatic installation warning is preserved privately. Subsequent playtest installation succeeded. The local watcher was stopped; the private app remains installed. Earlier restricted loopback-test failures are retained rather than rewritten. No public launch, organizer approval, public judge access or competition submission is claimed.
+The original automatic installation warning is preserved privately. Subsequent playtest installation succeeded. The local watcher was stopped; the private app remains installed. Earlier restricted loopback-test failures are retained rather than rewritten. No organizer approval, independent authenticated judge gameplay or competition submission is claimed.
 
-This is single-account hosted gameplay evidence. A further actual two-tab check rejected an outdated revision with “Stale route; refresh and try again” and retained exactly one accepted stop. Separate-user isolation, simultaneous Redis transaction races, raw Redis inspection and independent browser verification remain untested. Successful state changes and reload persistence support hosted backend operation; no raw network trace was captured. Private account details, test-community URL, credentials and tokens are excluded.
+This is single-account hosted gameplay evidence. A further actual two-tab check rejected an outdated revision with “Stale route; refresh and try again” and retained exactly one accepted stop. Separate-user isolation, simultaneous Redis transaction races, raw Redis inspection and independent browser verification remain untested. Successful state changes and reload persistence support hosted backend operation; no raw network trace was captured. Credentials and tokens are excluded.
+
+## Public access
+
+On 16 November, the coordinating operator reported Reddit Mod Discussions showed u/reddit confirming the requested change from private to public. A refreshed clean Incognito session without owner cookies showed the exact post rendering the game app shell, community information Public, Sign Up / Log In, and “Sign in to Reddit to save a route.” The grid was unpopulated until authentication, consistent with the existing identity rule. This verifies public page and app-shell visibility, not independent authenticated gameplay. Earlier private readback and human-verification interruption remain historical; the approved helper installation was denied and the helper is absent.
+
+Open the [interactive post](https://www.reddit.com/r/daily_route_resc_dev2/comments/1xxs5l9/daily_route_rescue_todays_dispatch/) and sign in with your own Reddit account to play and save a route.
 
 ## Run locally
 
