@@ -54,3 +54,7 @@ Run `.\.venv\Scripts\python.exe .\test_app.py`. Original output is under `eviden
 This is a bounded working slice. The November 16 final Chrome walkthrough exercised A 12→24 ms, the four affected nodes, D1 acknowledgment, A 30 ms, and expansion of the historical exact 24 ms acknowledgment. Observations are retained in `evidence/final-ui-2026-11-16.json`. Independent product acceptance, mobile/cross-browser checks and browser restart remain separate checks; store reopening is covered by integration tests. See `JUDGE-TESTING-GUIDE.md` for the judge walkthrough. No real research corpus, source/claim editor, evidence-link authoring, authentication, parallel writers, migrations, crash-recovery certification, graph beyond depth eight, organizer acceptance, registration, submission, publication or deployment is included. The initial graph is deliberately fixed and synthetic. Source changes are manually entered. The app does not evaluate truth, source independence or performance superiority over a spreadsheet. Existing `prove_graph.py`, `package-provenance.json` and `evidence/proof-*` remain separate unchanged dependency proof.
 
 Implementation attribution: actual Codex engineering, not native Hermes/OpenClaw execution.
+
+## Actual demonstration
+A [78-second genuine browser demo](demo/README.md) shows the actual embedded Relate workflow on synthetic evidence. The local acknowledgment click is automated, not an authenticated human review. Public video availability is distinct from organizer/judge acceptance.
+
