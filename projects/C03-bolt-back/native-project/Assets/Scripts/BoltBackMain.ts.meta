@@ -1,0 +1,104 @@
+- !<AssetImportMetadata/b31da85d-d555-447c-b5e6-b506b6bc3fbf>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 8f81db91-5d6e-4165-91e3-90fc404f5c40
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 8f81db91-5d6e-4165-91e3-90fc404f5c40
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 2e271d64-1d43-471b-b4a7-aeef4d29f5dc
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/2e271d64-1d43-471b-b4a7-aeef4d29f5dc>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: b9d16ff0-5c62-4d3f-9cec-1bc5ee8a786e
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    controls: false
+    debugColliders: false
+    feedback1: false
+    feedback2: false
+    feedback3: false
+    hint1: false
+    hint2: false
+    hint3: false
+    light1: false
+    light2: false
+    light3: false
+    part1: false
+    part2: false
+    part3: false
+    socket1: false
+    socket2: false
+    socket3: false
+    tray1: false
+    tray2: false
+    tray3: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - controls: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      part1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      part2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      part3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      socket1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      socket2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      socket3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tray1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tray2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      tray3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      hint3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      light1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      light2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      light3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      feedback1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      feedback2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      feedback3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      debugColliders: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Bolt Back - abstract virtual practice"}'
+    - '// @input AssignableType_1 controls {"hint":"Passive controls and status"}'
+    - '// @input SceneObject part1 {"hint":"Numbered fastener 1"}'
+    - '// @input SceneObject part2 {"hint":"Numbered fastener 2"}'
+    - '// @input SceneObject part3 {"hint":"Numbered fastener 3"}'
+    - '// @input SceneObject socket1 {"hint":"Matching socket 1"}'
+    - '// @input SceneObject socket2 {"hint":"Matching socket 2"}'
+    - '// @input SceneObject socket3 {"hint":"Matching socket 3"}'
+    - '// @input SceneObject tray1 {"hint":"Tray position 1"}'
+    - '// @input SceneObject tray2 {"hint":"Tray position 2"}'
+    - '// @input SceneObject tray3 {"hint":"Tray position 3"}'
+    - '// @input SceneObject hint1 {"hint":"Study hint 1"}'
+    - '// @input SceneObject hint2 {"hint":"Study hint 2"}'
+    - '// @input SceneObject hint3 {"hint":"Study hint 3"}'
+    - '// @input SceneObject light1 {"hint":"Progress light 1"}'
+    - '// @input SceneObject light2 {"hint":"Progress light 2"}'
+    - '// @input SceneObject light3 {"hint":"Progress light 3"}'
+    - '// @input SceneObject feedback1 {"hint":"Socket feedback 1"}'
+    - '// @input SceneObject feedback2 {"hint":"Socket feedback 2"}'
+    - '// @input SceneObject feedback3 {"hint":"Socket feedback 3"}'
+    - '// @input bool debugColliders {"hint":"Show collider outlines"}'

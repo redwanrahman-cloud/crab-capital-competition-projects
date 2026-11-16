@@ -1,0 +1,50 @@
+- !<AssetImportMetadata/9f189f7e-f141-4c0d-8aa4-0296a62a5a57>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> b2c1e720-bbc1-4a8f-a0e5-0832e8a3e83c
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> b2c1e720-bbc1-4a8f-a0e5-0832e8a3e83c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 46109a3b-373f-415c-94ba-12853d809531
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/46109a3b-373f-415c-94ba-12853d809531>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 4d397d02-c8f0-4e0d-8533-8539ca3bd5dd
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    label: false
+    width: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - label: !<string> 1
+      width: !<float> 5.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Bolt Back label"}'
+    - '// @input string label = "1" {"hint":"Visible number or caption"}'
+    - '// @input float width = 5 {"hint":"Label width in cm", "widget":"slider", "min":2, "max":30, "step":1}'

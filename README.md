@@ -6,9 +6,9 @@ Last evidence update: 16 November 2026.
 
 | ID | Project | Verified progress | Open gates |
 |---|---|---|---|
-| C01 | Private Draft Desk | Genuine device rewrite and one approved cloud rewrite observed; real SDK reported on_device and in_cloud respectively. App Check attestation succeeded; original/draft preserved and one-use approval consumed. | Exact supported device-model identity, complete judge setup, required license and genuine public demo video remain open. |
+| C01 | Private Draft Desk | Genuine device rewrite and one approved cloud rewrite observed; real SDK reported on_device and in_cloud respectively. App Check attestation succeeded; original/draft preserved and one-use approval consumed. | Exact supported device-model identity, external judge setup verification and genuine public demo video remain open. Apache-2.0 and setup instructions are published. |
 | C02 | Repo Rescue | Read-only snapshot comparison with haunted evidence-desk report; 21 native tests pass. Baseline data reports and scanning controls unchanged. Genuine Kiro specs and three tests retained. | Final demo, judge access and organizer judgment of category fit/Kiro-use sufficiency. |
-| C03 | Bolt Back | Lens Studio project; four native regression scenarios; actual Windows mouse Practice, drag/drop, wrong-placement feedback and Reset verified. | Full project/planning package and actual public preview video. Physical-device behavior remains unverified; glasses are not stated as mandatory entry hardware. |
+| C03 | Bolt Back | Lens Studio project; four native regression scenarios; actual Windows mouse Practice, drag/drop, wrong-placement feedback and Reset verified. | Native first-party source and planning are published; exact dependency restoration and clean compile remain unverified. Actual public preview video remains open. Physical-device behavior remains unverified. |
 | C04 | Daily Route Rescue | Pinned Devvit build and Redis/user-identity adapters. Earlier six-pass/browser evidence retained; latest restricted test run had one loopback-access failure. | Actual hosted Reddit playtest and provider Redis acceptance. |
 | C05 | Evidence Trail | Fresh-environment install, dependency check, five real-engine tests and actual browser workflow pass; acknowledged source text remains historical after later edits. Pinned setup and judge guide included. | Required repository topic, accessible demo/video, eligibility and final submission. |
 | C06 | QNX Build Doctor | Static build-command audit tool; retained 15-test evidence. | Genuine QNX SDK/compiler validation and host-tool eligibility. |
@@ -33,6 +33,6 @@ Last evidence update: 16 November 2026.
 
 ## Source packages
 
-The `projects/` directory contains reviewed development source for C01, C02, C04, C05, C06, C07 and C08. C03, C09 and C10 contain status only; the full Lens assets are not included. No private config, credentials or development evidence is included. These packages are not all completed entries. Read each project's README for reproducibility and remaining platform gates. Our original contributions are licensed under Apache-2.0; see the root LICENSE and THIRD-PARTY-NOTICES.md for scope.
+The `projects/` directory contains reviewed development source for C01–C08. C03 includes native first-party source and planning with explicit omitted third-party dependency records, not a self-contained runnable Lens. C09 and C10 contain status only. No private config, credentials or development evidence is included. These packages are not all completed entries. Read each project's README for reproducibility and remaining platform gates. Our original contributions are licensed under Apache-2.0; see the root LICENSE and THIRD-PARTY-NOTICES.md for scope.
 
 Updates are deliberate reviewed commits; this repository is not an unattended background sync.

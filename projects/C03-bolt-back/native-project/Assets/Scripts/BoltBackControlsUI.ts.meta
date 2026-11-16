@@ -1,0 +1,53 @@
+- !<AssetImportMetadata/b8e1a2e6-845e-4c02-9428-7f4863609cab>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 9f6aea30-8947-4e0e-be2e-7661a717811a
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 9f6aea30-8947-4e0e-be2e-7661a717811a
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 8e1c61a3-4ee9-4601-a8c3-142fecdab93b
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/8e1c61a3-4ee9-4601-a8c3-142fecdab93b>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: b470dbde-260c-4ab1-8465-2db6614652fa
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    practiceLabel: false
+    resetLabel: false
+    width: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - width: !<float> 30.000000
+      practiceLabel: Practice
+      resetLabel: Reset
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @ui {"widget":"label", "label":"Bolt Back controls"}'
+    - '// @input float width = 30 {"hint":"Panel width in cm", "widget":"slider", "min":24, "max":36, "step":1}'
+    - '// @input string practiceLabel = "Practice" {"hint":"Practice action label"}'
+    - '// @input string resetLabel = "Reset" {"hint":"Reset action label"}'

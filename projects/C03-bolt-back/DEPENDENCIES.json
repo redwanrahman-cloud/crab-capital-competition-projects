@@ -1,0 +1,135 @@
+{
+  "capturedAtUtc": "2026-11-16T14:46:56.4270409Z",
+  "editor": "Lens Studio 5.23.2.26081320",
+  "packages": [
+    {
+      "file": "AiPreviewAgentInspect.lspkg",
+      "bytes": 668160,
+      "sha256": "D0CA060A37DF3A8D20DB9A177C9C38D63C94D140CB271E2928A15F11A4424681",
+      "descriptorId": "212485f0-0042-45e0-98a2-d216b9e9f653",
+      "version": "4.0.0",
+      "exportId": "221003ff-d6e5-49a4-8f6e-a4f56c3848f5",
+      "componentId": "21288764-a220-4aa5-84a1-fe84f924c1ed",
+      "assetLibraryId": "",
+      "assetLibraryHash": "",
+      "savedPrimaryAssetId": "212485f0-0042-45e0-98a2-d216b9e9f653",
+      "metaSha256": "EA203306EDC85D0521B0EEEA44362DD2A1D6D1A6A7435F26CD76E32C14EF6A1D",
+      "dependencies": null,
+      "licenseEntries": [],
+      "licenseStatus": "REDISTRIBUTION_NOT_ESTABLISHED_ARCHIVE_OMITTED"
+    },
+    {
+      "file": "Bitmoji 3D.lsc",
+      "bytes": 43798,
+      "sha256": "D53C98A88E5156733EB64DE8D62DF462233159EA30D4887F2CE2BDC95F355C41",
+      "descriptorId": "c84af0c0-600d-4b89-9dbd-8ccd6f7eb273",
+      "version": "10.0.1",
+      "exportId": "82b29808-b3eb-4a2e-a26a-4f0c91ced343",
+      "componentId": "0005e0cc-4592-ac28-0000-000000067b6a",
+      "assetLibraryId": "77pMkoqQPt5MSnQYdckogW",
+      "assetLibraryHash": "76f5923506813956cd6dc06f6a816bec",
+      "savedPrimaryAssetId": "7a3c78c1-4ff4-41a1-9f38-a2b9e6360f03",
+      "metaSha256": "562AF779D6A68730129E1B83E4D48908912BCEEAE6804C0862C3175B9A64BE33",
+      "dependencies": null,
+      "licenseEntries": [],
+      "licenseStatus": "REDISTRIBUTION_NOT_ESTABLISHED_ARCHIVE_OMITTED"
+    },
+    {
+      "file": "Leaf.lspkg",
+      "bytes": 269081,
+      "sha256": "42BC195D4B50C818F41D91B91483344001D90B385E66551063DDCE018F03DB0B",
+      "descriptorId": "3710b351-23cc-42fd-863a-416d66505957",
+      "version": "2.0.2",
+      "exportId": "00000000-0000-0000-0000-000000000000",
+      "componentId": "b5c0453c-8076-44a8-aea3-4b878299e9f9",
+      "assetLibraryId": "",
+      "assetLibraryHash": "",
+      "savedPrimaryAssetId": "e2ed8bbb-e05a-4d67-9038-2c8616810989",
+      "metaSha256": "E613B8994EB8CB09DD145C35A7E4799B332716BBDDD993D0D516CDD1C864F80A",
+      "dependencies": {
+        "dependencies": [
+          {
+            "assetId": "77pMkoqQPt5MSnQYdckogW",
+            "exportId": "82b29808-b3eb-4a2e-a26a-4f0c91ced343",
+            "name": "Bitmoji 3D",
+            "version": "10.0.1",
+            "id": "0005e0cc-4592-ac28-0000-000000067b6a"
+          },
+          {
+            "assetId": "1aPW5eMfMPeP1615dXiqyN",
+            "exportId": "fca03b4a-b5a7-4a4f-8e5c-dfdbf53aadf4",
+            "name": "SpectaclesInteractionKit",
+            "version": "2.0.0",
+            "id": "0f7a0bbe-777c-41a5-b979-0b0430f25836"
+          }
+        ]
+      },
+      "licenseEntries": [],
+      "licenseStatus": "REDISTRIBUTION_NOT_ESTABLISHED_ARCHIVE_OMITTED"
+    },
+    {
+      "file": "SpectaclesInteractionKit.lspkg",
+      "bytes": 1928577,
+      "sha256": "D40740060FD662CB807566B976EF961C353476267817D3E3EFAF10970AB318D7",
+      "descriptorId": "be230f2e-d00c-4bf5-890e-aba4d64330f9",
+      "version": "2.0.0",
+      "exportId": "1861de65-cfc9-41ce-b127-551c81d87e05",
+      "componentId": "0f7a0bbe-777c-41a5-b979-0b0430f25836",
+      "assetLibraryId": "",
+      "assetLibraryHash": "",
+      "savedPrimaryAssetId": "be230f2e-d00c-4bf5-890e-aba4d64330f9",
+      "metaSha256": "E982CE76672F320B48A204D3C51D83252E86D5F53BA90B2F2AD048889388AA19",
+      "dependencies": null,
+      "licenseEntries": [],
+      "licenseStatus": "REDISTRIBUTION_NOT_ESTABLISHED_ARCHIVE_OMITTED"
+    },
+    {
+      "file": "SpectaclesUIKit.lspkg",
+      "bytes": 1248264,
+      "sha256": "641BBFD3A555B9CD9DAA13C6A40B26FA5AF7FBEF59AD9563AF9474EB4017FC7F",
+      "descriptorId": "c07d6aba-e866-4b53-abaa-9848ce573786",
+      "version": "2.0.0",
+      "exportId": "76a4fb65-f53b-49ca-a0a7-6b6bb4b16252",
+      "componentId": "8c9a8f41-acd1-446a-b428-742bbc993c39",
+      "assetLibraryId": "7pJbKPpGSYDaQrYPtHhfiL",
+      "assetLibraryHash": "8eb266bfa888d08afa5862c46e1ef517",
+      "savedPrimaryAssetId": "c07d6aba-e866-4b53-abaa-9848ce573786",
+      "metaSha256": "25BE08A429038026BD19DEC29B8007EDDEDF43CF7AF3E71FBF6E8E9AF50DC34F",
+      "dependencies": {
+        "dependencies": [
+          {
+            "assetId": "1aPW5eMfMPeP1615dXiqyN",
+            "exportId": "fca03b4a-b5a7-4a4f-8e5c-dfdbf53aadf4",
+            "name": "SpectaclesInteractionKit",
+            "version": "2.0.0",
+            "id": "0f7a0bbe-777c-41a5-b979-0b0430f25836"
+          }
+        ]
+      },
+      "licenseEntries": [],
+      "licenseStatus": "REDISTRIBUTION_NOT_ESTABLISHED_ARCHIVE_OMITTED"
+    }
+  ],
+  "omittedAssets": [
+    {
+      "path": "Assets/BoltBack/unlit.graphShader",
+      "bytes": 83759,
+      "sha256": "67f3d68f7555a78f2eca5aa957b7ae6f79338d08602ff6fd9177f9f9ed9a9704",
+      "reason": "Standard Lens Studio shader provenance/redistribution not independently established; restore from authorized same-version installation or original permitted project."
+    },
+    {
+      "path": "Assets/Render/Echopark.hdr",
+      "bytes": 1495252,
+      "sha256": "7f718a37e096b94af7cd15a6c6142e7ec0386887b756b9cdced63f1fc71b38d4",
+      "reason": "Template environment-map redistribution not independently established; restore from authorized same-version base template or permitted original project."
+    }
+  ],
+  "restoreStatus": "EXACT_NATIVE_RESTORE_NOT_VERIFIED",
+  "restoreGaps": [
+    "Five Snap package archives excluded: separate authorized acquisition and matching versions/hashes required.",
+    "Leaf and AiPreview package descriptors have no Asset Library ID; their exact installed archive cannot be recreated from version name alone.",
+    "SIK descriptor export ID differs from the export ID declared in Leaf/UIKit dependency manifests; both are retained rather than silently rewritten.",
+    "unlit.graphShader and Echopark.hdr payloads excluded pending redistribution provenance; their original metadata/IDs and expected hashes are preserved.",
+    "Clean native import/compile and device validation have not been run on this export."
+  ]
+}

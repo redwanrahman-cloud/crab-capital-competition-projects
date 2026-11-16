@@ -1,0 +1,307 @@
+{
+  "capturedAtUtc": "2026-11-16T14:48:42.137Z",
+  "hashAlgorithm": "SHA-256",
+  "files": [
+    {
+      "path": "native-project/Assets/Scripts/BoltBackBoundsScenario.ts",
+      "bytes": 1684,
+      "sha256": "6ccfba4fb363d27365b528b1289d172e45de81df6fd18cd44768c6a5fc573019"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackBoundsScenario.ts.meta",
+      "bytes": 1219,
+      "sha256": "82c4669dfb5b5231577e11cbfebb0cdd590c368035d7e51af0317c863d6ebaa7"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackControlsUI.ts",
+      "bytes": 6118,
+      "sha256": "69b0b5eddea97ef8e847dfab50b3e97b1457e380d670b7ad33034456253cfcef"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackControlsUI.ts.meta",
+      "bytes": 1678,
+      "sha256": "5b0209e251a9957930d53ad8b90f203f89464381ed610c341930bfc9926b73fc"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackLabelUI.ts",
+      "bytes": 1751,
+      "sha256": "e31c2f473f7f684c137582ace39a1ccf117c14dd210e145497ea40b837299c72"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackLabelUI.ts.meta",
+      "bytes": 1526,
+      "sha256": "8644bf0e61c0fb3066dc56cdd3772ba189f16af690b5e9626c6dac67149fa23c"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMain.ts",
+      "bytes": 11156,
+      "sha256": "5ec514287c9a3b1cb78cc0adf94a3a42d49d284963f4f86bd91690616c1343ce"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMain.ts.meta",
+      "bytes": 4459,
+      "sha256": "905c618b92ce98ea903119c71c4281e33fa19b1edd59469efb719562efc9f950"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMouseAdapter.ts",
+      "bytes": 10746,
+      "sha256": "0ae28f4e52f71fbce013e3d4f8a9882dbb45bbc76ddfd3db5b64bc7627b456a1"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMouseAdapter.ts.meta",
+      "bytes": 1219,
+      "sha256": "5923a8108b7adfcb0d20aa92bdf748893f2e4f4bc59bbea8be330d6f587c7048"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMouseScenario.ts",
+      "bytes": 7765,
+      "sha256": "843fa4f33222978b985e9d7f5bbee5d204bb4e677dae52a95dcd169a13b3ba4b"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackMouseScenario.ts.meta",
+      "bytes": 1219,
+      "sha256": "4ec52c2aa6e3afc38b402ae2bc9d9b5004bd33f7e8c7aec27f2b238ec6e0c9aa"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackPlacementScenario.ts",
+      "bytes": 2076,
+      "sha256": "93ac6a135fe3777c14894e4809960148056e0d9185ab865377a0599af6167864"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackPlacementScenario.ts.meta",
+      "bytes": 1219,
+      "sha256": "79d3640a65e521ec73439d2761488a025f78b51d2f1b15b67e22de46459eb227"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackScenarioIndex.ts",
+      "bytes": 956,
+      "sha256": "97ac9ee88c0f7aaf8acbe7bd1e188db8068b6cbc3f140506ec9944681439a9c6"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackScenarioIndex.ts.meta",
+      "bytes": 1219,
+      "sha256": "25ceb48646e0dd63df73fb39a5b4132cab83955c4acd5875f97f5f3a52479a43"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackSceneContracts.ts",
+      "bytes": 699,
+      "sha256": "f43376c129018b3617123ffc2eafb422107eb8c10bb48c9896cf2c44f075f408"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackSceneContracts.ts.meta",
+      "bytes": 1219,
+      "sha256": "de05c9f7046a61caf4b4169ea2b4276cb97f9ee812512be3db4f8ab72399a4f5"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackState.ts",
+      "bytes": 843,
+      "sha256": "b00c57d454c2d8994f42045ceb11ce02cde2cd497fc2ba23f385be45ec3114de"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackState.ts.meta",
+      "bytes": 1219,
+      "sha256": "1f022d99bbf5a4538525ea2a63ea2fd3a811e293e0db88c278c35ec41312118b"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackStudyScenario.ts",
+      "bytes": 1482,
+      "sha256": "7c1407e211bb9a85c2dd83ad2ab11766cf83417296d0e19e60c5f0cb0debbf54"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackStudyScenario.ts.meta",
+      "bytes": 1219,
+      "sha256": "9db4951b4ab9765e7c7fc250a3e5de48e78fc60a4c939d51534b439b87abf081"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackTestHelpers.ts",
+      "bytes": 2450,
+      "sha256": "0773f8addbad90648bfbd74e28ff1f161af809627c50686bebb12ca29bbba4d2"
+    },
+    {
+      "path": "native-project/Assets/Scripts/BoltBackTestHelpers.ts.meta",
+      "bytes": 1219,
+      "sha256": "6b6f670e08ce31eb9ec69d92837a11f0ba3b7ae4a69291d2c0ec3392c7903e03"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackBox.mesh",
+      "bytes": 2352,
+      "sha256": "1c65bdf9dad5695ddcfd20a86f52c013a03c85e99de6217746dba1ee23fd6fff"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackBox.mesh.meta",
+      "bytes": 582,
+      "sha256": "f0c76ed3ff54014ee463104c3a469e46ecadb7abcfbd25430b1938f3e859297a"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPanel.mat",
+      "bytes": 2751,
+      "sha256": "18d2aed01a8250b395149160bfc7aa17291053be4c142c5b4a4eaa9d2975fede"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPanel.mat.meta",
+      "bytes": 484,
+      "sha256": "b364d912dd4a20b444d78981ea8088170351c3e692deddf07a2896ae72c03e74"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart1.mat",
+      "bytes": 2751,
+      "sha256": "f7e2ba029cf648d79a5358f4fc48cf89736319fde9da6321fd1f74da2284f436"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart1.mat.meta",
+      "bytes": 484,
+      "sha256": "8d8b2be5387bc8e39ceb3d5a4546ae6d6a51a3af03c091daa49a1fdafaa068d2"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart2.mat",
+      "bytes": 2751,
+      "sha256": "7f1e377f4b0d969d8b8c37878af08cb2fdfafee60e9dfa06dab648084290d7db"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart2.mat.meta",
+      "bytes": 484,
+      "sha256": "b5d08b7f57e853aabbd6b7ed3eab40ab6e1ac5a554662bf921c9f0a25ed7835e"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart3.mat",
+      "bytes": 2751,
+      "sha256": "c278f693861d83cc6b5abcdc094fede4696c5467f30d63d5dcd885613d0fdcab"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackPart3.mat.meta",
+      "bytes": 484,
+      "sha256": "df28c268dcd203bd8bb086dd06678a7a38192ea12d949e3c9500fa62556904f9"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackSocket.mat",
+      "bytes": 2751,
+      "sha256": "b7992f844d87b1ae0bbaa9684da132e649c1c45481340d8b3487c506c3f364c4"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackSocket.mat.meta",
+      "bytes": 484,
+      "sha256": "11fab3c3a8c64c03b7b22bce7e6c5a444937c40730b42ffccf95f2fa89f69649"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackSuccess.mat",
+      "bytes": 2751,
+      "sha256": "6cbaca7fb2597805cb772ec95e9314ddf34db9455b9f642e27776c6bf847af95"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackSuccess.mat.meta",
+      "bytes": 484,
+      "sha256": "2afc8c7d8945d35265e2b1937daaca1dae45b658aec89c77f7e2ff9a4aef0e22"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackTray.mat",
+      "bytes": 2751,
+      "sha256": "eafcdfce8cb4d2347fbfd47cdf98146b9c89b6881dd1931cac5541380e547438"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackTray.mat.meta",
+      "bytes": 484,
+      "sha256": "9d0e799bd88b5537c508837c1d76c5abc82a69408cb05210483357352cad5e76"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackWrong.mat",
+      "bytes": 2751,
+      "sha256": "183ea0b387227ced586a142d611774274b9ed0cc6ce2f4b3c594dbc9084a4c57"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/BoltBackWrong.mat.meta",
+      "bytes": 484,
+      "sha256": "47f09edb4a5b875627ab4beb6f79170d25c9adf35911d919e17354f447b80145"
+    },
+    {
+      "path": "native-project/Assets/BoltBack/unlit.graphShader.meta",
+      "bytes": 494,
+      "sha256": "b410f41211786791c3a6ff977f31ea82cfb4a701877c449febe6236f8d1de33c"
+    },
+    {
+      "path": "native-project/Assets/Render/Device Camera Texture.deviceCameraTexture",
+      "bytes": 80,
+      "sha256": "19719f617e73e571f75a31159081bd60cee37a05acb2c4a3189a72b1a4ff3166"
+    },
+    {
+      "path": "native-project/Assets/Render/Device Camera Texture.deviceCameraTexture.meta",
+      "bytes": 494,
+      "sha256": "1fca77753c5c9b587234e4047dd9cdb797d1238503a89db1e5d496e6cf70a0e7"
+    },
+    {
+      "path": "native-project/Assets/Render/Echopark.hdr.meta",
+      "bytes": 632,
+      "sha256": "7b78806d273d4da630684ea46014276f27fcd0deed72989d890f8838c2e3b42c"
+    },
+    {
+      "path": "native-project/Assets/Render/Render Target.renderTarget",
+      "bytes": 612,
+      "sha256": "5002e4bac0a205a6358aa8662c8d0d72a077bfb6d8b600deb86958f002aad363"
+    },
+    {
+      "path": "native-project/Assets/Render/Render Target.renderTarget.meta",
+      "bytes": 492,
+      "sha256": "ca4985ece8b0f133ce82a20683bda1b2a06485c79fc40a9e6a4c69724e5ec8c0"
+    },
+    {
+      "path": "native-project/Assets/Scene.scene",
+      "bytes": 122267,
+      "sha256": "9bccd4189af005d513c940dd78bc548cc6dc43766e875f62f307ee556d69096c"
+    },
+    {
+      "path": "native-project/Assets/Scene.scene.meta",
+      "bytes": 478,
+      "sha256": "9b68c8f9352811334c5d16ac6b801533596dc5d0d5d1c0ac5ab92fa928ebde0c"
+    },
+    {
+      "path": "native-project/BoltBack.esproj.esproj",
+      "bytes": 1124,
+      "sha256": "78df3aed7ba9765b712f7f67364d18d191b08f7f7b416be900a99fb6dd7e315f"
+    },
+    {
+      "path": "native-project/Packages/AiPreviewAgentInspect.lspkg.meta",
+      "bytes": 444,
+      "sha256": "ea203306edc85d0521b0eeea44362dd2a1d6d1a6a7435f26cd76e32c14ef6a1d"
+    },
+    {
+      "path": "native-project/Packages/Bitmoji 3D.lsc.meta",
+      "bytes": 444,
+      "sha256": "562af779d6a68730129e1b83e4d48908912bceeae6804c0862c3175b9a64be33"
+    },
+    {
+      "path": "native-project/Packages/Leaf.lspkg.meta",
+      "bytes": 17641,
+      "sha256": "e613b8994eb8cb09dd145c35a7e4799b332716bbddd993d0d516cdd1c864f80a"
+    },
+    {
+      "path": "native-project/Packages/SpectaclesInteractionKit.lspkg.meta",
+      "bytes": 444,
+      "sha256": "e982ce76672f320b48a204d3c51d83252e86d5f53ba90b2f2ad048889388aa19"
+    },
+    {
+      "path": "native-project/Packages/SpectaclesUIKit.lspkg.meta",
+      "bytes": 444,
+      "sha256": "25be08a429038026bd19dec29b8007eddedf43cf7af3e71fbf6e8e9af50dc34f"
+    },
+    {
+      "path": "planning/design-brief.md",
+      "bytes": 8776,
+      "sha256": "1f4500cebe6024c8e3c36c082bd84c9d157a49cd579f1ac9d996c9a20fa26923"
+    },
+    {
+      "path": "planning/acceptance-plan.json",
+      "bytes": 1630,
+      "sha256": "ec05a1c9118908f3a9e08b6a19031e8d9d33b4309fac4bf7f7e9db448412347e"
+    },
+    {
+      "path": "planning/submission-draft.md",
+      "bytes": 3962,
+      "sha256": "964e9653801dea4e07fc99aa5d315bc39cddd2131f9bd08fb644f0f165910fdf"
+    },
+    {
+      "path": "planning/DEVPOST-MIT-LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "6f9892e19381b3f410774176dcee0f82c9d716d28d96899ba4a12d87f1b9fabe"
+    }
+  ],
+  "scope": "Exact copies of allowlisted native and planning files; generated packaging docs excluded from this copied-source manifest."
+}
