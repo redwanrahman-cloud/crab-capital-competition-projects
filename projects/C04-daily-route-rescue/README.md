@@ -1,6 +1,23 @@
 # Daily Route Rescue · C04
 
-Local game implementation with pinned Devvit dependencies, server identity handling and Redis adapter. Hosted Reddit playtest and real platform persistence remain unverified.
+A daily 4×4 ambulance-routing game with server-validated moves, ordered rescues, deterministic UTC boards and per-user Redis state. Source and local tests are included.
+
+## Actual hosted verification — 16 November 2026
+
+The official Devvit CLI authenticated the owner, uploaded version 0.0.1 and installed playtest 0.0.1.2 in a provider-created **private** test community. A real interactive post rendered and accepted actual browser input:
+
+- Wrong starting cell rejected: “Start at the ambulance.”
+- Four valid stops survived a full reload: one rescue, three steps.
+- All 16 stops completed: three rescues, 15 steps, **625 points**.
+- Reset cleared the route; another full reload retained the empty state.
+
+The original automatic installation warning is preserved privately. Subsequent playtest installation succeeded. The local watcher was stopped; the private app remains installed. Earlier restricted loopback-test failures are retained rather than rewritten. No public launch, organizer approval, public judge access or competition submission is claimed.
+
+This is single-account hosted gameplay evidence. Separate-user isolation, injected concurrency/stale-write races, raw Redis inspection and independent browser verification remain untested. Successful state changes and reload persistence support hosted backend operation; no raw network trace was captured. Private account details, test-community URL, credentials and tokens are excluded.
+
+## Run locally
+
+Use Node 24.18.0+ for the current provider workflow; the verified local runtime was 26.13.0. Dependencies pin official `@devvit/web` and `devvit` at 0.15.3 and esbuild at 0.25.12.
 
 ```sh
 npm ci --ignore-scripts --no-audit --no-fund
@@ -9,13 +26,14 @@ npm run build
 npm start
 ```
 
-Run commands from this directory using a Node release supported by the pinned packages. The local server uses synthetic memory state. Deploying to Reddit requires a separately authorized developer account, application configuration and hosted acceptance.
-This public export contains source, tests, synthetic fixtures and build manifests. Private receipts, reports, screenshots, local credentials, installed dependencies and generated local builds are omitted. Test results described here are historical development evidence; this export has not independently reproduced them. No submission or organizer acceptance is claimed.
+Open http://127.0.0.1:3404/. Local mode uses an explicitly synthetic in-memory adapter. It is not Reddit or persistent across process restarts. Six tests pass, including two isolated local HTTP sessions; those local sessions do not prove separate Reddit-account isolation.
 
-Third-party packages and vendored files retain their own licenses. No blanket license is granted over third-party material. Install dependencies only after reviewing their terms and use your own authorized platform configuration.
+For a hosted copy, use your own authorized Reddit developer account and owned app name. Review the official provider permissions and terms before CLI login, upload or playtest. Those commands change provider state and can create a private test community. No private test-community identity is hardcoded in this source package.
 
-Portability: this source export has not been verified by a clean dependency installation on another machine. Original contributions are licensed under Apache-2.0; third-party material retains its own licenses. See the repository root LICENSE and THIRD-PARTY-NOTICES.md.
+## Gameplay and limits
 
-## Current hosted-test preparation
+Start at the ambulance. Rescue 1 → 2 → 3, then reach the hospital. Move horizontally or vertically without revisiting a cell. Completed score is `1000 − 25 × steps`; reset retains the dated board. Identity, date, route validation and score are server-owned. Redis WATCH/read/MULTI/SET/EXEC has fail-closed acknowledgement and eight-day expiration.
 
-Official Devvit CLI 0.15.3 is now pinned with the matching SDK. On Node 26.13.0, all six local tests passed and the actual SDK bundle built. CLI authentication and app registration remain incomplete. The signed-in developer portal lists no registered app; no hosted playtest, post, Redis acceptance or Reddit gameplay has occurred. Do not confuse this local build with provider acceptance. Node 24.18.0+ is required by the currently checked provider quickstart.
+Version 1 has eight geometric variants of a solvable serpentine layout. Every successful route has 15 steps and scores 625; this is completion practice, not competitive shortest-route ranking or a unique board for every calendar day. No global leaderboard, rewards or monetization are implemented.
+
+Original contributions are Apache-2.0; see the repository root LICENSE and THIRD-PARTY-NOTICES.md. Dependencies retain their own terms. Platform approval, final eligibility and submission materials remain separate gates.
