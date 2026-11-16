@@ -13,7 +13,7 @@ The official Devvit CLI authenticated the owner, uploaded version 0.0.1 and inst
 
 The original automatic installation warning is preserved privately. Subsequent playtest installation succeeded. The local watcher was stopped; the private app remains installed. Earlier restricted loopback-test failures are retained rather than rewritten. No public launch, organizer approval, public judge access or competition submission is claimed.
 
-This is single-account hosted gameplay evidence. Separate-user isolation, injected concurrency/stale-write races, raw Redis inspection and independent browser verification remain untested. Successful state changes and reload persistence support hosted backend operation; no raw network trace was captured. Private account details, test-community URL, credentials and tokens are excluded.
+This is single-account hosted gameplay evidence. A further actual two-tab check rejected an outdated revision with “Stale route; refresh and try again” and retained exactly one accepted stop. Separate-user isolation, simultaneous Redis transaction races, raw Redis inspection and independent browser verification remain untested. Successful state changes and reload persistence support hosted backend operation; no raw network trace was captured. Private account details, test-community URL, credentials and tokens are excluded.
 
 ## Run locally
 
