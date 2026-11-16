@@ -1,0 +1,23 @@
+{
+  "name": "release-evidence-gate",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "check:local": "node scripts/forge-local-check.cjs",
+    "build:preview": "node scripts/build-preview.mjs",
+    "preview": "node preview/server.mjs"
+  },
+  "dependencies": {
+    "@forge/api": "^6.0.0",
+    "@forge/bridge": "^5.0.0",
+    "@forge/kvs": "^1.0.0",
+    "@forge/react": "^11.0.0",
+    "@forge/resolver": "^1.7.0",
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@forge/cli": "15.1.0"
+  }
+}

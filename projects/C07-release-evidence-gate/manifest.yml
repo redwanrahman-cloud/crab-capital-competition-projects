@@ -1,0 +1,24 @@
+modules:
+  jira:issuePanel:
+    - key: release-evidence-gate
+      resource: main
+      resolver:
+        function: resolver
+      render: native
+      title: Release Evidence Gate
+      icon: https://developer.atlassian.com/platform/forge/images/icons/issue-panel-icon.svg
+  function:
+    - key: resolver
+      handler: resolver.handler
+resources:
+  - key: main
+    path: src/frontend.jsx
+permissions:
+  scopes:
+    - read:jira-work
+    - storage:app
+app:
+  # Registration is deliberately pending. Replace ONLY after Captain authorizes registration.
+  id: ari:cloud:ecosystem::app/00000000-0000-0000-0000-000000000000
+  runtime:
+    name: nodejs22.x

@@ -1,0 +1,4 @@
+q++ -Vgcc_ntox86_64 -xi example.input
+q++ -Vgcc_ntox86_64 -xcpp example.input
+qcc -Vgcc_ntox86_64 -lang-c++ -xii example.input
+qcc -Vgcc_ntox86_64 -x cpp first.input -xnone second.cpp -lang-c++

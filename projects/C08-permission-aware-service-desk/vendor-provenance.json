@@ -1,0 +1,216 @@
+{
+  "checkedAtUtc": "2026-11-15T14:27:25.2358763Z",
+  "repository": "https://github.com/cognizant-ai-labs/agentic-web",
+  "runtimeCommit": "63a956cf4653f610b1c238c70946f4d7647d17a8",
+  "submissionStartCutoffUtc": "2026-11-12T04:00:00Z",
+  "submissionStartCommit": "e4a8727d5c6807233b8976f28494bbdac7bc1c6e",
+  "startSpecSha256": "5D12F6F7A6FE50CB34AEBD4258AF3E8FF6BD81F286E4ADE232B8C9B3583F222A",
+  "currentSpecSha256": "5D12F6F7A6FE50CB34AEBD4258AF3E8FF6BD81F286E4ADE232B8C9B3583F222A",
+  "files": [
+    {
+      "file": "vendor/LICENSE",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/LICENSE",
+      "sha256": "C71D239DF91726FC519C6EB72D318EC65820627232B2F796219E87DCF35D0AB4"
+    },
+    {
+      "file": "vendor/docs/worldwide_agentic_web_mvp_spec.md",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/docs/worldwide_agentic_web_mvp_spec.md",
+      "sha256": "5D12F6F7A6FE50CB34AEBD4258AF3E8FF6BD81F286E4ADE232B8C9B3583F222A"
+    },
+    {
+      "file": "vendor/references/network_design.md",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/references/network_design.md",
+      "sha256": "F98637144A6F1943629B26653F33FFB32E33F1F1E9BBCBAB9C26CBA3A312C58B"
+    },
+    {
+      "file": "vendor/references/site_actions.md",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/references/site_actions.md",
+      "sha256": "CA4B829540F7D2F2EDED92AD0752C75C12690E6E6589632D2A2264BE18078ECE"
+    },
+    {
+      "file": "vendor/runtime/action-bridge.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/action-bridge.js",
+      "sha256": "C6446E47AF1CCEFA3E4E9A99F0FCD142081AD31202DE7289BF38714D3A4D0DBC"
+    },
+    {
+      "file": "vendor/runtime/action-transport.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/action-transport.js",
+      "sha256": "B2D998F7778121A38DA1F6307E2DE68412F98CD9814622D09562D91A686F302F"
+    },
+    {
+      "file": "vendor/runtime/actions.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/actions.js",
+      "sha256": "899A1EB474F09AC2521B550EEA936FF621CCF42FDD2B74E0729676EEEC013FCA"
+    },
+    {
+      "file": "vendor/runtime/byok.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/byok.js",
+      "sha256": "DA921DB02F6817C037EC88F155160C8ACA404BD62B0F0F3BB85C42451E56C73C"
+    },
+    {
+      "file": "vendor/runtime/cruse-render.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/cruse-render.js",
+      "sha256": "EE5FF2ECAFAC86B00CC4302EC455E6D738D95C3D4D7BA517DF99BCB170CCAADD"
+    },
+    {
+      "file": "vendor/runtime/cruse.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/cruse.js",
+      "sha256": "EE53DB4DB813441F67041870348ECBCFA6E82B1E9C095CC05FD7FBAC711A0510"
+    },
+    {
+      "file": "vendor/runtime/discovered-actions.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/discovered-actions.js",
+      "sha256": "4295CEB269844058C553C811846B05B6B0773520A6F64D9E694D2FBA7B9C1E43"
+    },
+    {
+      "file": "vendor/runtime/engine.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/engine.js",
+      "sha256": "48F30E80BA724F807EB745F8E2DD5A630F9AA518184307981FE5CF5863BCD5AC"
+    },
+    {
+      "file": "vendor/runtime/execution-stream.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/execution-stream.js",
+      "sha256": "FFE6BDD5E627535708F2C19CE6EEC5BB5A7C0FAC0FAB9141FBA569FC4341AD66"
+    },
+    {
+      "file": "vendor/runtime/form-actions.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/form-actions.js",
+      "sha256": "28526800BEC03179FDB23C664E4172D2E5C3645F88EA9597C497BD2E681C95E2"
+    },
+    {
+      "file": "vendor/runtime/hocon.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/hocon.js",
+      "sha256": "4B11AE05268C11B3FAC016EEC0CC67090537CEF424A0B4CE7D84122130B7E4CE"
+    },
+    {
+      "file": "vendor/runtime/index.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/index.js",
+      "sha256": "EF2300A5BD916E08248F2BB82AD0CD24FA9C98CCF2F23A4644902A96F16A8A10"
+    },
+    {
+      "file": "vendor/runtime/kernel.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/kernel.js",
+      "sha256": "E850A02EA2E46498DF5DCC8DF342FDDBBE407DC8871479C65825B09FC361B63B"
+    },
+    {
+      "file": "vendor/runtime/langchain-runner.mjs",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/langchain-runner.mjs",
+      "sha256": "EBA4DB2A9305F75405312930628123E61F503F8D1B1132A185A23EE04F14F137"
+    },
+    {
+      "file": "vendor/runtime/LICENSE.txt",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/LICENSE.txt",
+      "sha256": "A6CBA85BC92E0CFF7A450B1D873C0EAA2E9FC96BF472DF0247A26BEC77BF3FF9"
+    },
+    {
+      "file": "vendor/runtime/llm.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/llm.js",
+      "sha256": "C5D4023570F44B62FC913FF772C7C2C2EE47241ADA450FFBEF27DA7F94DCBC5E"
+    },
+    {
+      "file": "vendor/runtime/mcp.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/mcp.js",
+      "sha256": "EB2B5A46FD24AFFBD6E009E6941C9929E5A11CD1E88E70B90C609A045FCFD128"
+    },
+    {
+      "file": "vendor/runtime/model.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/model.js",
+      "sha256": "9714913D44E3DB658DE0D1FD1D9B250662D798A568ECBADB37FA2E3B629B646C"
+    },
+    {
+      "file": "vendor/runtime/provider-error.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/provider-error.js",
+      "sha256": "80FB6D491009E5867EA54E13419DBEB2F795CA5DF4609E5F8D4340464ACF80A1"
+    },
+    {
+      "file": "vendor/runtime/README.md",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/README.md",
+      "sha256": "55C412979AFC91570777D21A283927333E8DF4AA1594CA2A76D2DF82733F4B32"
+    },
+    {
+      "file": "vendor/runtime/remote.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/remote.js",
+      "sha256": "2BE37FCC67A1F18DEA7013DEAE640A526400C3E1C1DB7D9E021D672D8BF3193E"
+    },
+    {
+      "file": "vendor/runtime/runner.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/runner.js",
+      "sha256": "57D9D91E1C05AE4078ED7B361FF4C2481E0E1A78AD02D2007464B7F9B0E08F78"
+    },
+    {
+      "file": "vendor/runtime/sandbox-worker.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/sandbox-worker.js",
+      "sha256": "21A94A5CCD3B3605F0FCD4F6E34D19355E1AC341CB585F5E65CB2FCC0EE4D527"
+    },
+    {
+      "file": "vendor/runtime/sandbox.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/sandbox.js",
+      "sha256": "0242F47F5481D3B2E64487B26B6A0A7A44F22A7C2A019ED7DC659AE809BE71DC"
+    },
+    {
+      "file": "vendor/runtime/trace.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/trace.js",
+      "sha256": "B2186480F683649795F76CE371241DA1C53C24CFCB140F0C57487CAF5C7E0F43"
+    },
+    {
+      "file": "vendor/runtime/turn-control.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/turn-control.js",
+      "sha256": "F291B4733B3B08860B3516F6FEFFCA433B9D7B3939993AA626E9996EBE6EABCA"
+    },
+    {
+      "file": "vendor/runtime/turn-status.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/turn-status.js",
+      "sha256": "378393E6A8939C5F1CD5DC3BC659C4E6835D6FB6AEFF5ADF09900DB9986EDBC0"
+    },
+    {
+      "file": "vendor/runtime/ui.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/ui.js",
+      "sha256": "638AA705A1E1B15FF8F39CB4DB8ADE8B9A293DBCBDC98714F7CDDF7E89FF97DE"
+    },
+    {
+      "file": "vendor/runtime/web-crypto.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/web-crypto.js",
+      "sha256": "7AF171A63243D1DC9257F40C234C4A67760898505F37FFCAE18474CEC3D64361"
+    },
+    {
+      "file": "vendor/runtime/generated/agent-runner.bundle.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/generated/agent-runner.bundle.js",
+      "sha256": "C8851E5D28FC751D2EAD9F809E66C60D2D3595ED80CB136E59F2219452974A61"
+    },
+    {
+      "file": "vendor/runtime/generated/graph.gen.mjs",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/generated/graph.gen.mjs",
+      "sha256": "D3344326B105069BFD7CD2DE2BFA42A5E8963F88859A0FC33E678C5113B624AF"
+    },
+    {
+      "file": "vendor/runtime/generated/sly_data.gen.mjs",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/generated/sly_data.gen.mjs",
+      "sha256": "653D3D6988109151F3200636AC4F143D66D4E363D4F1AB03AF00216EE3C70C04"
+    },
+    {
+      "file": "vendor/runtime/generated/validation.gen.mjs",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/runtime/generated/validation.gen.mjs",
+      "sha256": "FC56D29878E18FA94F988311FE60F5F2E7823A45498F43139F87619015A59B3A"
+    },
+    {
+      "file": "vendor/templates/agent-manifest.json",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/templates/agent-manifest.json",
+      "sha256": "3C33FB8F78ED1063DAC978D3A2E66BD129EDB79F095BF1832E9F56D65549540C"
+    },
+    {
+      "file": "vendor/templates/network.hocon",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/templates/network.hocon",
+      "sha256": "516791EAD7439E2803E99DCE05D21D1B45A202BD9F6E2567F3B5945258842B7E"
+    },
+    {
+      "file": "vendor/templates/site-actions.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/templates/site-actions.js",
+      "sha256": "24D0ACB7E6D5912A2BFBF212DF6B1BB07F2339A00DE2FC44D1D12C26740311DB"
+    },
+    {
+      "file": "vendor/templates/site.js",
+      "source": "https://raw.githubusercontent.com/cognizant-ai-labs/agentic-web/63a956cf4653f610b1c238c70946f4d7647d17a8/skills/agentify-website/templates/site.js",
+      "sha256": "D234ABE578ABEAFC9DEE24947B0ED4FBF7F3BD74E8DC552AD236B86D62D63BD2"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "apiKey": "INVENTED_REPLACE_WITH_AUTHORIZED_WEB_API_KEY",
+  "authDomain": "invented-judge-project.firebaseapp.com",
+  "projectId": "invented-judge-project",
+  "storageBucket": "invented-judge-project.firebasestorage.app",
+  "messagingSenderId": "123456789012",
+  "appId": "1:123456789012:web:abcdef0123456789"
+}

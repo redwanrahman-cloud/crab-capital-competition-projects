@@ -1,0 +1,1 @@
+{"source": "https://pypi.org/pypi/relate-db/1.0.1/json", "version": "1.0.1", "file": "relate_db-1.0.1-cp39-abi3-win_amd64.whl", "sha256": "cae1e98c41420fac2d910b80ff0a38bfd2ac9cbaa206333eac3fd575e1dceec4", "bytes": 9921219, "requires_dist": ["pyarrow>=14; extra == \"arrow\"", "pandas>=2.0; extra == \"pandas\""]}
