@@ -10,6 +10,8 @@ npm start
 
 Open http://127.0.0.1:3408. Node 22.23.2 was used in development. There are no npm dependencies. Use invented DEMO data. Real approved inference, second-origin composition, public HTTPS hosting, current-spec review, demonstration materials and submission remain pending.
 
+The first-party asset URLs, catalog policy links and Engine base now support a non-root static directory such as `/projects/C08-permission-aware-service-desk/`. All 12 local tests passed with permitted loopback access, including the actual HTTP host boundary and focused subpath checks. Earlier restricted localhost failures remain preserved. This does not establish a deployed HTTPS site; do not claim one until it is actually tested. Scripted inference, closed peers, consent rules and upstream runtime are unchanged. LLM and second-origin operation are not separately mandatory under the explicit contest submission list.
+
 Vendor runtime provenance and per-file hashes are in `vendor-provenance.json`. Upstream licenses are preserved at `vendor/LICENSE` and `vendor/runtime/LICENSE.txt`; upstream runtime and attribution are unmodified.
 This public export contains source, tests, synthetic fixtures and build manifests. Private receipts, reports, screenshots, local credentials, installed dependencies and generated local builds are omitted. Test results described here are historical development evidence; this export has not independently reproduced them. No submission or organizer acceptance is claimed.
 

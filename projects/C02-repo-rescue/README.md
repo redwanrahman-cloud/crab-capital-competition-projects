@@ -2,6 +2,10 @@
 
 Read-only SHA-256 comparison of a current directory and a user-trusted snapshot. Produces classifications and a restoration PLAN ONLY; it does not restore, copy or delete input content. Python 3.10+ standard library only.
 
+The haunted evidence-desk HTML report uses a ghost to identify missing snapshot traces, readable status cards and explicit plan-only proposals. Twenty-one native tests passed after this renderer-only update; baseline computed reports, input fixture bytes and scanning controls were unchanged. Earlier execution-restriction failures are retained privately rather than rewritten as passes.
+
+Genuine Kiro contribution is limited to two specifications and three property tests. Public `.kiro/specs/repo-rescue/` files retain that work; one machine-specific interpreter path was replaced with `python` for this public copy. No claim that Kiro authored the core engine or the new renderer. Costume Contest is a proposed category; judges determine sufficient Kiro use and theme fit.
+
 From this directory:
 
 ```sh

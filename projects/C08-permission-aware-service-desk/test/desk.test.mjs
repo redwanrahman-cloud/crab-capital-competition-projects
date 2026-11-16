@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';import {readFile} from 'node:fs/promises';import {createDesk,verifyAudit} from '../desk.js';import {ActionRegistry} from '../vendor/runtime/actions.js';import {attachDesk,registerActions} from '../site-actions.js';
 const catalog=JSON.parse(await readFile(new URL('../catalog.json',import.meta.url)));const input={serviceId:'device',assetTag:'DEMO-TEST',summary:'Invented display issue',expectedRevision:0};
 test('exact preview, decline, new revision approval and source-linked tamper-evident audit',async()=>{
- const desk=createDesk(catalog);let s=await desk.stage(input),p=s.staged;assert.equal(p.recipient,'Local synthetic IT queue');assert.deepEqual(p.data,{assetTag:'DEMO-TEST',summary:'Invented display issue'});assert.equal(p.source,'/policies/device.html');
+ const desk=createDesk(catalog);let s=await desk.stage(input),p=s.staged;assert.equal(p.recipient,'Local synthetic IT queue');assert.deepEqual(p.data,{assetTag:'DEMO-TEST',summary:'Invented display issue'});assert.equal(p.source,'./policies/device.html');
  await desk.decline(p);assert.equal(desk.state().result,null);assert.equal((await desk.execute(p)).ok,false);
  s=await desk.stage({...input,serviceId:'access',expectedRevision:2});p=s.staged;const receipt=await desk.execute(p);assert.equal(receipt.result.status,'SYNTHETIC_LOCAL_ONLY');assert.equal(receipt.result.recipient,'Local synthetic facilities queue');assert.equal(receipt.result.proposalDigest,p.digest);assert.equal((await desk.execute(p)).ok,false);
  const events=desk.state().audit;assert.equal(await verifyAudit(events),true);events[0].data.data.summary='tampered';assert.equal(await verifyAudit(events),false);assert.equal(await verifyAudit(desk.state().audit),true);
