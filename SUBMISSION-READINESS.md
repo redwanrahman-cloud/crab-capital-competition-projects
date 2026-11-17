@@ -25,3 +25,7 @@ No final competition entry has been submitted. This checklist separates working 
 ## Next action
 
 Prepare the remaining judge-access and actual demonstration materials; the single-account private Reddit playtest has passed. Continue the outstanding demo, compatibility and judge-access checks without resuming Codegeist or claiming unfinished submissions.
+
+## C04 update — 17 November 2026
+Daily Route Rescue is SUBMITTED. Actual Devpost confirmation: Project submitted! Public entry: https://devpost.com/software/daily-route-rescue . See projects/C04-daily-route-rescue/SUBMISSION-RECEIPT.json. Existing disclosed test limitations remain. Codegeist stays paused under no-billing.
+

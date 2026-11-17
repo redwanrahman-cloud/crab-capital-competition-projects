@@ -1,6 +1,6 @@
 # Daily Route Rescue — entry packet
 
-Prepared 16 November 2026. **Materials prepared; public page and app-shell visibility was observed; independent authenticated judge gameplay remains unverified. No competition entry has been submitted.**
+Prepared 16 November 2026. **Materials prepared; public page and app-shell visibility was observed; independent authenticated judge gameplay remains unverified. Update 17 November 2026: competition entry submitted after Captain approval; Devpost displayed “Project submitted!” See SUBMISSION-RECEIPT.json.**
 
 ## Project fields
 
@@ -49,7 +49,7 @@ On 16 November, the coordinating operator reported Reddit Mod Discussions showed
 
 Before final submission:
 
-- Captain accepted the single-account hosted test; independent authenticated gameplay remains unverified. Devpost sign-in, final human attestations and confirmation remain pending.
+- Captain accepted the single-account hosted test; independent authenticated gameplay remains unverified. Devpost sign-in, Captain-approved attestations and actual submission confirmation are complete as of 17 November 2026.
 - Keep access free and available throughout judging.
 - Entrant personally confirms eligibility, rights, team authority where applicable, relevant contest terms and final form declarations.
 - Confirm all required form links and the root play instructions, then obtain an actual submission receipt.
@@ -57,3 +57,4 @@ Before final submission:
 Game-source hashes remain unchanged from the tested build. The original observed installation was 0.0.1.2; updated root play instructions were uploaded as 0.0.2. Those are distinct checkpoints, not a claim that the later version was independently replayed.
 
 See the [official contest rules](https://redditgameofday2026.devpost.com/rules) for authoritative requirements. Apache-2.0 applies to our original contributions; dependencies retain their terms. No organizer acceptance is implied.
+
