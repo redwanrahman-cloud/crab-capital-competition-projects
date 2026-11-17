@@ -29,3 +29,14 @@ Prepare the remaining judge-access and actual demonstration materials; the singl
 ## C04 update — 17 November 2026
 Daily Route Rescue is SUBMITTED. Actual Devpost confirmation: Project submitted! Public entry: https://devpost.com/software/daily-route-rescue . See projects/C04-daily-route-rescue/SUBMISSION-RECEIPT.json. Existing disclosed test limitations remain. Codegeist stays paused under no-billing.
 
+
+## 17 November current checkpoint
+
+- C01: 44 tests passed again and fresh browser bundle built. Credential-free judge build prepared and checked through a real temporary loopback server: page, bundle and legal notices served; invalid sample config rejected; private config path blocked. This does not establish external judge or provider acceptance. Model-version evidence, authorized configuration access, public video and entrant declarations remain open.
+- C02: runnable package and real local demonstration preparation in progress; completion requires the actual retained receipt.
+- C04: actual Devpost submission confirmed; see its provider receipt.
+- C05 and C07: owner-paused. Existing code and evidence retained; no further registration/submission actions.
+- C03: genuine native behavior retained; dependency restore and required preview video remain.
+- C06: no genuine QNX toolchain evidence; do not invent qualification.
+- C08: public deployment/conformance and required participant demo remain open; no scripted inference represented as an actual model.
+- C09: task not yet released. C10: required design tool/assets and finished artwork remain missing.

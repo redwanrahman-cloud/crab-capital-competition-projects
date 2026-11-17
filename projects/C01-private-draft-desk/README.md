@@ -19,3 +19,7 @@ This public export contains source, tests, synthetic fixtures and build manifest
 Third-party packages and vendored files retain their own licenses. No blanket license is granted over third-party material. Install dependencies only after reviewing their terms and use your own authorized platform configuration.
 
 Portability: this source export has not been verified by a clean dependency installation on another machine. Original contributions are licensed under Apache-2.0; third-party material retains its own licenses. See the repository root LICENSE and THIRD-PARTY-NOTICES.md.
+
+## Verified judge-build package — 17 November
+[judge-build/](judge-build/) contains the prebuilt static assets and unchanged source, with no usable configuration or credential. 44 offline tests passed; a temporary local server served the assets and preserved config guards. Independent Terra review verified 27 manifest entries, 19 shared source files, five built files and ZIP contents. No provider call or external judge test was performed. Exact Gemini Nano 4 identity, authorized judge configuration/App Check, public video and eligibility remain unresolved.
+
