@@ -1,0 +1,19 @@
+{
+  "checked_at": "2026-11-17T09:01:39.4368876Z",
+  "status": "SUBMITTED",
+  "project": "Daily Route Rescue",
+  "contest": "Reddit Game of the Day Hackathon",
+  "contest_id": 31644,
+  "submission_id": 1309137,
+  "project_url": "https://devpost.com/software/daily-route-rescue",
+  "confirmation": "Project submitted! Continue to edit your project until the hackathon deadline: December 08, 2026 at 09:00pm EST.",
+  "verification": "Actual Chrome provider confirmation and SUBMITTED TO contest panel",
+  "approval": "Captain explicitly approved final Reddit submission",
+  "video": "No demo video attached",
+  "limitations": [
+    "Independent authenticated judge gameplay unverified",
+    "Separate-user isolation and simultaneous transaction races unverified",
+    "Eight repeating geometric route variants"
+  ],
+  "codegeist": "PAUSED_NO_BILLING"
+}
