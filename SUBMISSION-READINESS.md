@@ -40,3 +40,6 @@ Daily Route Rescue is SUBMITTED. Actual Devpost confirmation: Project submitted!
 - C06: no genuine QNX toolchain evidence; do not invent qualification.
 - C08: public deployment/conformance and required participant demo remain open; no scripted inference represented as an actual model.
 - C09: task not yet released. C10: required design tool/assets and finished artwork remain missing.
+
+C02 completion update: runnable local ZIP and genuine 65-second report walkthrough are in projects/C02-repo-rescue/demo. Actual CLI comparison/export and conflict refusal passed; restricted suite20/21 with junction setup denied, prior native21/21 remains historical. No complete contest-video or submission acceptance claimed.
+
